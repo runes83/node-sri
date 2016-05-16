@@ -1,0 +1,1 @@
+nodeProcessCommandLine:"%programfiles%\nodejs\%WEBSITE_NODE_DEFAULT_VERSION%\node.exe" --harmony-generators
