@@ -1,0 +1,16 @@
+{
+  "name": "node-sri",
+  "version": "1.0.0",
+  "description": "sri hash rest api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-sri"
+  },
+  "author": "Rune Synnevåg",
+  "license": "ISC"
+}
